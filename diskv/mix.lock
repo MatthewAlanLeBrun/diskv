@@ -1,0 +1,4 @@
+%{
+  "gen_state_machine": {:hex, :gen_state_machine, "2.1.0", "a38b0e53fad812d29ec149f0d354da5d1bc0d7222c3711f3a0bd5aa608b42992", [:mix], [], "hexpm", "ae367038808db25cee2f2c4b8d0531522ea587c4995eb6f96ee73410a60fa06b"},
+  "graft": {:hex, :graft, "0.2.0", "7274c25441df1ba61020e73e15127ea3896f2d921c2f847bdc96c1883723e021", [:make, :mix], [{:gen_state_machine, "~> 2.0", [hex: :gen_state_machine, repo: "hexpm", optional: false]}], "hexpm", "ac19cf9ea0ca9293eda22a08568aa43bae1bf7af117dd61f0ae2353f1db27b1b"},
+}
